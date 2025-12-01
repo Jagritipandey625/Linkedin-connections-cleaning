@@ -1,5 +1,4 @@
 # Linkedin-connections-cleaning
-# LinkedIn Assignment Data Analysis
 This repository contains a Jupyter notebook and analysis report for processing and analyzing 126 CSV files from a LinkedIn assignment focused on data cleaning and graph-based ranking of unique keys.
 
 #Features
